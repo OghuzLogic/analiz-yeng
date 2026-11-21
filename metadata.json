@@ -1,0 +1,6 @@
+{
+  "name": "ئانالىزلار",
+  "description": "خەلقئارادىكى نوپۇزلۇق ئەرەبچە، ئىنگلىزچە ۋە تۈركچە ئانالىز قاناللىرىدىن كۈندىلىك يېڭى ئانالىزلارنى يىغىش، ئۇيغۇرچە خۇلاسىلەش، تەھرىرلەش ۋە يەرلىك ساقلاش سۇپىسى.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
